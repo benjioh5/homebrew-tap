@@ -2,7 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install benjioh5/tap/<formula>`
+`brew install benjioh5/tap/wifi-passwd`
 
 Or `brew tap benjioh5/tap` and then `brew install <formula>`.
 
@@ -10,7 +10,7 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "benjioh5/tap"
-brew "<formula>"
+brew "wifi-passwd"
 ```
 
 ## Documentation
